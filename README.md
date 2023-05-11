@@ -2,7 +2,7 @@
 
 #### Name: 凃于珊
 #### Student ID: 110354011
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### ShinyApps link: [<https://sally165.shinyapps.io/NCCU_DS2023_hw4_110354011/>]
 
 ## Description
 
